@@ -18,11 +18,6 @@ The project includes:
 
 > 🎓 This project is educational and promotes digital media literacy and misinformation awareness.
 
----
-
-## 📄 Full Research Report
-
-[📥 Download PDF Report](./Fake-News-detection-tools.pdf)
 
 ---
 
@@ -84,8 +79,8 @@ The project includes:
 
 ## ✍️ Author
 
-**Anurag Aditya**  
-Cybersecurity SOC Analyst | OSINT Enthusiast | Digital Verification Advocate
+**Vishal Kumar**  
+Cybersecurity SOC Analyst | Embedded Developer  | Roboticist
 
 ---
 
